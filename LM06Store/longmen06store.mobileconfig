@@ -19,11 +19,11 @@
 			<key>PayloadDescription</key>
 			<string>Configures Web Clip</string>
 			<key>PayloadDisplayName</key>
-			<string>Apps Jailbreak</string>
+			<string>Kho lưu trữ IPA</string>
 			<key>PayloadIdentifier</key>
-			<string>vn.ycs.longmenjb.WebClip</string>
+			<string>vn.ycs.longmen06store.WebClip</string>
 			<key>PayloadOrganization</key>
-			<string>Long Mến Dev</string>
+			<string>Long Nguyen</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
@@ -33,15 +33,15 @@
 			<key>Precomposed</key>
 			<true/>
 			<key>URL</key>
-			<string>https://github.com/appcrackwin/appcrackwin.github.io/blob/main/LongMenJB/LongMenJB.html</string>
+			<string>https://longmen06.github.io/LM06Store/LM06Store.html</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Cài đặt ứng dụng Jailbreak Tạo bởi Long Mến❤️️Source Cydia:https://longmen06.github.io/❤️️Trang Ipa:ipalongmen06.github.io/❤️️Facebook:https://www.facebook.com/longmenjb/❤️️Youtube:https://www.youtube.com/c/LongMenJailbreak/❤️️</string>
+	<string>Cài đặt ứng dụng Jailbreak Tạo bởi Long Nguyễn❤️️Source Cydia:https://longmen06.github.io/❤️️Trang Ipa:ipalongmen06.github.io/❤️️Facebook:https://www.facebook.com/longmen06/❤️️Youtube:https://www.youtube.com/c/LongMenJailbreak/❤️️</string>
 	<key>PayloadDisplayName</key>
 	<string>Long MếnJB</string>
 	<key>PayloadIdentifier</key>
-	<string>cm.longmenjb.Long Mến JB</string>
+	<string>cm.longmen06.Long Mến Store</string>
 	<key>PayloadOrganization</key>
 	<string>App IPA Bởi Long Mến</string>
 	<key>PayloadRemovalDisallowed</key>
